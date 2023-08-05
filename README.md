@@ -1,6 +1,6 @@
 # Dragons & Dungeons Spells Project
 
-![Dragons & Dungeons Spells](project_image.png)
+![Dragons & Dungeons Spells](https://m.media-amazon.com/images/I/910yyX1a1CL._AC_UF500,500_QL80_.jpg)
 
 ## Description
 
